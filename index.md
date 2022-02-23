@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## 李澳飞
 
-You can use the [editor on GitHub](https://github.com/flyOnUiThread/flyOnUiThread.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+- 性&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;别：男                                                                                    
+- 出生年月：1999.09             
+- 求职意向：**Java开发工程师**
+- 微&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;信：flyonuithread                                                                
+- 手&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;机：**18220773066**
+- Email：flyonuithread@foxmail.com  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 教育背景
 
-### Markdown
+- 2020.09-2022.07&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;西安外事学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;计算机科学与技术（本科）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 获奖&证书
 
-```markdown
-Syntax highlighted code block
+- 陕西省蓝桥杯个人赛Java B组二等奖
+- 陕西省高等职业院校技能大赛-嵌入式技术应用开发比赛三等奖
+- 计算机二级Java证书
 
-# Header 1
-## Header 2
-### Header 3
+#### 个人技能
 
-- Bulleted
-- List
+- 熟练掌握JavaSE基础知识，集合，多线程，网络等核心API，并有良好的编码习惯。
+- 熟练运用Spring，SpringMVC，MyBatis，SpringBoot等框架进行web项目的开发。
+- 熟悉运用Maven进行项目包管理。
+- 熟悉MySQL数据库的SQL语句编写。
+- 熟练运用Swagger2进行接口功能测试、文档生成。
+- 熟悉运用Redis进行数据存取。
+- 熟悉运用ActiveMQ消息队列引擎。
+- 熟悉Nginx反向代理服务器的配置和部署。
+- 熟悉运用H5、Css、JavaScript，以及Layui、Editor.md等前端开发框架。
+- 了解微服务架构，Nacos，Sentinel的配置和使用。
 
-1. Numbered
-2. List
+#### 项目经历
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/flyOnUiThread/flyOnUiThread.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 基于SSM + Tomcat + LayUi + Editor.md的博客网站
+  - 用户的登录注册，头像及信息修改，博客的编辑、预览、发布，敏感字过滤，根据博客分类/标签查看列表，博客阅读，阅读量统计，发表多级评论，订阅博主，邮件通知。
+- 基于SpringBoot + Mybatis + LayUi的游戏商城
+  - 用户模块：登录注册，信息修改，浏览游戏，库存，购物车，愿望单（折扣时邮件通知），优惠券领取，支付宝支付。
+  - 管理员模块：新增/修改游戏，发布优惠券。
