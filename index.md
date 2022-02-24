@@ -9,7 +9,7 @@
 
 #### 教育背景
 
-- 2020.09-2022.07&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;西安外事学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;计算机科学与技术（本科）
+- 2020.09-2022.07&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;西安外事学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;计算机科学与技术（本科）
 
 #### 获奖&证书
 
@@ -19,11 +19,11 @@
 
 #### 个人技能
 
-- 熟练掌握JavaSE基础知识，集合，多线程，网络等核心API，并有良好的编码习惯。
-- 熟练运用Spring，SpringMVC，MyBatis，SpringBoot等框架进行web项目的开发。
+- 掌握JavaSE基础知识，集合，多线程，网络等核心API，并有良好的编码习惯。
+- 掌握Spring，SpringMVC，MyBatis，SpringBoot等框架进行web项目的开发。
 - 熟悉运用Maven进行项目包管理。
 - 熟悉MySQL数据库的SQL语句编写。
-- 熟练运用Swagger2进行接口功能测试、文档生成。
+- 熟悉运用Swagger2进行接口功能测试、文档生成。
 - 熟悉运用Redis进行数据存取。
 - 熟悉运用ActiveMQ消息队列引擎。
 - 熟悉Nginx反向代理服务器的配置和部署。
