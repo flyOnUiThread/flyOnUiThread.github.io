@@ -1,8 +1,11 @@
 ## 李澳飞
 
-- 性  别：男                                                                                    出生年月：1999.09
-- 学  校：西安外事学院                                                                手        机：**18220773066**
-- Email：flyonuithread@foxmail.com                                     求职意向 ：**Java开发**
+- 性  别：男                                                                                    
+- 出生年月：1999.09
+- 学  校：西安外事学院                                                                
+- 手        机：**18220773066**
+- Email：flyonuithread@foxmail.com                                     
+- 求职意向 ：**Java开发**
 - GitHub个人主页：flyOnUiThread.github.io                          
 
 #### 个人技能
