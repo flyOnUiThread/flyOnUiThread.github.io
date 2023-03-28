@@ -1,65 +1,68 @@
-## 李澳飞
+<!-- ![Visitor Count](https://profile-counter.glitch.me/flyOnUiThread/count.svg)
 
-- 性  别：男                                                                                    
-- 出生年月：1999.09
-- 学  校：西安外事学院                                                                
-- 手        机：**18220773066**
-- Email：flyonuithread@foxmail.com                                     
-- 求职意向 ：**Java开发**
-- GitHub个人主页：flyOnUiThread.github.io                          
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyOnUiThread)](https://github.com/flyOnUiThread/github-readme-stats)
+ -->
 
-#### 个人技能
 
-- 掌握JavaSE基础知识，集合，多线程，网络等核心API，并有良好的编码习惯。
-- 掌握Spring，SpringMVC，MyBatis，SpringBoot等框架进行web项目的开发。
-- 熟悉使用Maven进行项目构建。
-- 熟悉MySQL、Oracle数据库的SQL语句编写。
-- 熟悉使用Swagger2进行接口功能测试、文档生成。
-- 熟悉使用Redis进行数据存取。
-- 熟悉使用ActiveMQ消息队列引擎。
-- 熟悉使用Git版本控制。
-- 熟悉Nginx反向代理服务器的配置和部署。
-- 熟悉运用H5、Css、JavaScript，以及Layui、Vue2、Editor.md等前端开发框架。
-- 了解微服务架构，Nacos，Sentinel的配置和使用。
-
-#### 工作经历
-
-公司名称：陕西航天信息有限公司		       工作时间：2021-08——2022-09				Java开发工程师
-
-#### 项目经历
-
-- **FAST仓储管理系统**
-
-  **主要技术**：SpringBoot、Ant Design&Vue、Mybatis-plus、Shiro、JWT、JmReport、apache poi
-
-  **项目描述**：
-
-  ​		该项目基于JeecgBoot前后端分离架构，供法士特公司进行仓储管理。主要功能有物料管理、盘点管理、工单发/退料、采购订单查询、BOM管理、采购订单管理、用户权限管理、在线用户管理、数据大屏、报表等。
-
-  **职责描述**：
-
-  - 盘点管理、工单发/退料、采购订单详情查询、波次发料等多个模块的前后端开发
-  - 工单、盘点单、采购单、事务单Excel导出
-  - 功能模块的查询SQL编写，视图建立，SQL优化
-  - 积木报表向系统的整合、系统内所有报表的设计，报表用户的权限验证
-
-- **西安交通大学电子票据系统**
-
-  **主要技术**：SpringBoot、Ant Design&Vue、Mybatis-plus、Shiro、JWT、ZXing、Spire.doc
-
-  **项目描述**：
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
   
-  ​		该项目是一个电子票据管理系统，支持票据填开、已开票据列表、商品管理、票据库存查询、分票/退回请求、查询统计等功能。
+
+### <div align="center">I'm Liaofei, a full-stack developer 👨‍💻 working remotely since 2022 🚀</div>  
   
-  **职责描述**：
   
-  - 使用Spire.doc将word转pdf，pdf签章
-  - ZXing二维码生成
-  - 报表功能集成及部分报表设计
-  - 用户密码修改、票据填开、票据库存查询、已开票信息查询的前后端开发
+
+<br/>  
 
 
-#### 自我评价
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-​		性格开朗，善于交流，有良好的表达能力，能快速融入新环境。具有良好的团队合作意识，乐于分享自己掌握的知识。对技术感兴趣，有较强的学习和解决问题的能力，喜欢学习掌握各种新技能。
 
+
+### Frontend  
+<div align="center">  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+ <a href="https://uniapp.dcloud.net.cn/" target="_blank"><img style="margin: 10px" src="https://ask.dcloud.net.cn/uploads/avatar/001/67/43/81_avatar_max.jpg" alt="uniapp" height="50" /></a>
+ <a href="https://element-plus.gitee.io/" target="_blank"><img style="margin: 10px" src="https://element-plus.gitee.io/images/element-plus-logo-small.svg" alt="element-plus" height="50" /></a>
+ <a href="https://www.antdv.com/docs/vue/introduce-cn/" target="_blank"><img style="margin: 10px" src="https://files.codelife.cc/icons/ant-design-vue.svg" alt="ant-design-vue" height="50" /></a>
+ 
+ 
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
+<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
+<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
+<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
+  <a href="https://www.baomidou.com/" target="_blank"><img style="margin: 10px" src="https://baomidou.com/img/logo.svg" alt="mybatis-plus" height="50" /></a>
+</div>
+</div>
+
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
